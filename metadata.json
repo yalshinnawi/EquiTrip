@@ -1,0 +1,6 @@
+{
+  "name": "EquiTrip - Group Travel & Expense Ledger",
+  "description": "Unites group calendar scheduling and Splitwise-style expense sharing into a unified itinerary node with automatic RSVP-to-split mapping and debt simplification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
